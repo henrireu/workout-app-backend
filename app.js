@@ -24,7 +24,7 @@ mongoose.connect(config.MONGODB_URI)
   })
 
 app.use(middleware.requestLogger)
-
+//
 app.use(middleware.tokenExtractor)
 app.use(middleware.userExtractor)
 
