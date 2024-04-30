@@ -28,6 +28,8 @@ app.use(middleware.requestLogger)
 app.use(middleware.tokenExtractor)
 app.use(middleware.userExtractor)
 
+app.use(express.static('dist'))
+
 app.use('/api/users', usersRouter)
 app.use('/api/login', loginRouter)
 app.use('/api/workouts', workoutsRouter)
