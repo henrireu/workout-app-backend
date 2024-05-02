@@ -1,4 +1,4 @@
-@charset "UTF-8";body{margin:0;padding:0;background-image:url(/assets/tausta-BPnSyUFk.jpg);background-position:center;background-size:cover;background-color:#00000080;width:100vw;height:100vh}h1{text-align:center}input,button,h4,p{margin:5px}.vierekkain{display:flex;flex-direction:row}.error{color:red}.message{color:green}.cursorpointer:hover{cursor:pointer}/*!
+@charset "UTF-8";body{margin:0;padding:0;background-image:url(/assets/tausta-BPnSyUFk.jpg);background-position:center;background-size:cover;background-color:#00000080;width:100vw;height:100vh}h1{text-align:center}input,button,h4,p{margin:5px}.vierekkain{display:flex;flex-direction:row}.error{color:red}.message{color:green}.cursorpointer:hover{cursor:pointer}.marginleft{margin-left:10px}.minwidth{width:100px}/*!
 * Bootstrap  v5.3.3 (https://getbootstrap.com/)
 * Copyright 2011-2024 The Bootstrap Authors
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
